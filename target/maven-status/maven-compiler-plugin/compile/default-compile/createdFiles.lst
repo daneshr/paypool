@@ -1,0 +1,12 @@
+ir\dotin\rest\PenaltyController.class
+ir\dotin\model\User.class
+ir\dotin\model\Account.class
+ir\dotin\model\Vote.class
+ir\dotin\model\Document.class
+ir\dotin\rest\AuthenticationController.class
+ir\dotin\model\UserVote.class
+ir\dotin\rest\UserController.class
+ir\dotin\model\UserRoleName.class
+ir\dotin\model\Penalty.class
+ir\dotin\rest\VoteController.class
+Application.class
